@@ -1,6 +1,6 @@
 # LLM-finetuning
 
-Natural Language to Docker. 
+Natural Language to code language. 
 
 
 Things to talk about:
