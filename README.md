@@ -1,4 +1,3 @@
-# LLM-finetuning
 
 ### Natural Language to code language (SQL)
 
